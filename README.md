@@ -1,7 +1,46 @@
-### Hi there 👋
+# Hi there 👋 My name is Martin Bucca
+
+## 💻 I'm a software engineering student
+
+<a href="https://github.com/aguirre-ivan?tab=repositories">
+    <img align="right" src="image.png" width="40%" /> 
+</a>
+
+<a href="https://github.com/aguirre-ivan?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=martinbucca&count_private=true&hide=issues&custom_title=Github%20%Stats&hide_border=true&show_icons=true&theme=onedark&bg_color=00000000" width="53%">
+</a>
+
+<a href="https://github.com/aguirre-ivan?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinbucca&langs_count=108&count_private=true&layout=compact&theme=onedark&bg_color=00000000&hide_border=true&hide=Makefile,Markdown,Blade,HCL,Lex,c%2B%2B,Perl,Tcl,Yacc,Shell,PowerShell,Assembly,Scheme,Hack,HTML" width="40%" /> 
+</a>
+
+## 👨‍💻 Skills
+
+<p align="center">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+
+## 📫 Reach Me
+
+
+<p align="center">
+    <a href="mailto:martinbucca02@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail to martinbucca02@gmail.com"/> </a>
+    <a href="https://www.linkedin.com/in/mart%C3%ADn-bucca-70858a216/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin to martin bucca </a>
+    <a href="https://github.com/martinbucca" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a>
+</p>
+
 
 <!--
-**martinbucca/martinbucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**aguirre-ivan/aguirre-ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +52,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
