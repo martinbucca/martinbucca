@@ -5,13 +5,17 @@
     <h3>💻 I'm a software engineering student at the University of Buenos Aires (UBA).<br>Passionate about coding, learning and exploring new technologies.<br>I would want to contribute to open-source projects and continuously enhance my programming skills.<br>Let's connect and code together!</h3>
   </div>
 </p>
-<a href="https://github.com/aguirre-ivan?tab=repositories">
-    <img align="right" src="softwaredev.png" width="40%"/> 
-</a>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="display: flex; flex-direction: row; align-items: center;">
+    <a href="https://github.com/martinbucca/github-readme-stats" style="margin-right: 20px;">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=martinbucca" alt="Top Langs" />
+    </a>
+    <a href="https://github.com/aguirre-ivan?tab=repositories">
+      <img src="softwaredev.png" width="40%" style="margin-left: 20px;"/> 
+    </a>
+  </div>
+</div>
 
-<a href="https://github.com/aguirre-ivan?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinbucca&langs_count=108&count_private=true&layout=compact&theme=onedark&bg_color=00000000&hide_border=true&hide=Makefile,Markdown,Blade,HCL,Lex,c%2B%2B,Perl,Tcl,Yacc,Shell,PowerShell,Assembly,Scheme,Hack,HTML" width="40%" /> 
-</a>
 
 
 
