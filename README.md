@@ -1,9 +1,12 @@
-# Hi there 👋 I'm Martin Bucca
+# Hi there 👋 I'm Martin Bucca 🇦🇷
 
-## 💻 I'm a software engineering student studying at University of Buenos Aires 🇦🇷
-
+<p align="center">
+  <div align="left">
+    <h3>💻 I'm a software engineering student at the University of Buenos Aires (UBA).<br>Passionate about coding, learning and exploring new technologies.<br>I would want to contribute to open-source projects and continuously enhance my programming skills.<br>Let's connect and code together!</h3>
+  </div>
+</p>
 <a href="https://github.com/aguirre-ivan?tab=repositories">
-    <img align="right" src="softwaredev.png" width="40%" /> 
+    <img align="right" src="softwaredev.png" width="40%"/> 
 </a>
 
 <a href="https://github.com/aguirre-ivan?tab=repositories">
@@ -12,9 +15,12 @@
 
 
 
+
+
+
 ## 👨‍💻 Skills
 
-<p align="center">
+<p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
