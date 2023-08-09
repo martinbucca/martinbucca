@@ -7,10 +7,10 @@
 </p>
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="display: flex; flex-direction: row; align-items: center;">
+    <img src="softwaredev.png" width="40%" style="margin-left: 20px;"/> 
     <a href="https://github.com/martinbucca/github-readme-stats" style="margin-right: 20px;">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=martinbucca" alt="Top Langs" />
     </a>
-      <img src="softwaredev.png" width="40%" style="margin-left: 20px;"/> 
   </div>
 </div>
 
