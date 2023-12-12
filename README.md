@@ -2,7 +2,7 @@
 
 <p align="center">
   <div align="left">
-    <h3>💻 I'm a software engineering student at the University of Buenos Aires (UBA).<br>Passionate about coding, learning and exploring new technologies.<br>I would like to contribute to open-source projects and improve my programming skills.<br>Let's connect and code together!</h3>
+    <h3>💻 I'm a software engineering student at the University of Buenos Aires (UBA).<br>Passionate about coding, learning and exploring new technologies.<br>I would like to contribute to open-source projects and improve my programming skills.<br></h3>
   </div>
 </p>
 <div style="display: flex; justify-content: center; align-items: center;">
